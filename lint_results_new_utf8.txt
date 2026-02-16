@@ -1,0 +1,73 @@
+﻿
+> school@0.1.0 lint
+> eslint
+
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\about\page.tsx
+   5:10   warning  'BookOpen' is defined but never used                             @typescript-eslint/no-unused-vars
+  33:37   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  33:214  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  42:37   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  42:177  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  87:42   warning  'idx' is defined but never used                                  @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\admissions\page.tsx
+   3:10   warning  'SectionHeader' is defined but never used                        @typescript-eslint/no-unused-vars
+  53:115  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\campus\page.tsx
+    6:10   warning  'SectionHeader' is defined but never used                        @typescript-eslint/no-unused-vars
+  112:49   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  112:68   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  135:33   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  135:218  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  138:46   error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\contact\page.tsx
+  3:10  warning  'SectionHeader' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\page.tsx
+   79:89   error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+   79:101  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  130:15   error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  130:134  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  241:120  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\privacy\page.tsx
+  81:138  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\programs\page.tsx
+   3:10  warning  'SectionHeader' is defined but never used                        @typescript-eslint/no-unused-vars
+   6:10  warning  'ArrowRight' is defined but never used                           @typescript-eslint/no-unused-vars
+  55:40  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  60:45  warning  'idx' is defined but never used                                  @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\terms\page.tsx
+  80:102  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  80:108  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\forms\contact-form.tsx
+  33:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\forms\inquiry-form.tsx
+  34:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\layout\dock.tsx
+  39:51   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:78   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:107  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\layout\footer.tsx
+  3:10  warning  'Mail' is defined but never used       @typescript-eslint/no-unused-vars
+  3:16  warning  'Phone' is defined but never used      @typescript-eslint/no-unused-vars
+  3:23  warning  'MapPin' is defined but never used     @typescript-eslint/no-unused-vars
+  3:31  warning  'Instagram' is defined but never used  @typescript-eslint/no-unused-vars
+  3:42  warning  'Facebook' is defined but never used   @typescript-eslint/no-unused-vars
+  3:52  warning  'Twitter' is defined but never used    @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\value-card.tsx
+  25:89   error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  25:103  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+Γ£û 40 problems (26 errors, 14 warnings)
+

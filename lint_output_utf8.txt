@@ -1,0 +1,38 @@
+﻿
+> school@0.1.0 lint
+> eslint
+
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\about\page.tsx
+  28:45   error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  28:222  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  36:45   error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  36:185  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\admissions\page.tsx
+  23:111  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\programs\page.tsx
+  5:16  warning  'CardHeader' is defined but never used   @typescript-eslint/no-unused-vars
+  5:28  warning  'CardTitle' is defined but never used    @typescript-eslint/no-unused-vars
+  5:39  warning  'CardContent' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\forms\contact-form.tsx
+  39:23  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  70:91  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\forms\inquiry-form.tsx
+  40:23  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  86:96  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\layout\navbar.tsx
+  8:10  warning  'cn' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\ui\input.tsx
+  4:18  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\ui\textarea.tsx
+  4:18  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+Γ£û 15 problems (11 errors, 4 warnings)
+

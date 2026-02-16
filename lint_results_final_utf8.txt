@@ -1,0 +1,18 @@
+﻿
+> school@0.1.0 lint
+> eslint
+
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\about\page.tsx
+  83:42  warning  '_idx' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\app\programs\page.tsx
+   6:10  warning  'ArrowRight' is defined but never used  @typescript-eslint/no-unused-vars
+  60:45  warning  '_idx' is defined but never used        @typescript-eslint/no-unused-vars
+
+C:\Users\N A M I\Pictures\books\umma vision\school\src\components\layout\dock.tsx
+  41:68   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:121  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Γ£û 5 problems (2 errors, 3 warnings)
+
